@@ -7,10 +7,10 @@ export default class YoutubeClient {
 			params: { key: process.env.REACT_APP_YOUTUBE_API_KEY },
 		});
 	}
-	async search(keyword) {
+	async search(params) {
 		return this.httpClient.get('search', params);
 	}
-	async videos(keyword) {
+	async videos(params) {
 		return this.httpClient.get('videos', params);
 	}
 }
