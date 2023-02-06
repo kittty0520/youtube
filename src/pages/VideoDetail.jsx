@@ -2,7 +2,6 @@ import React from 'react';
 import { useLocation } from 'react-router-dom';
 import ChannelInfo from '../components/ChannelInfo';
 import CommentThreads from '../components/CommentThreads';
-import Comment from '../components/CommentThreads';
 import RelatedVideos from '../components/RelatedVideos';
 
 export default function VideoDetail() {
