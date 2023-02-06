@@ -11,6 +11,9 @@ export default class Youtube {
 	async relatedVideos(id) {
 		return this.#related(id);
 	}
+	async commentThreads(id) {
+		return this.#comments(id);
+	}
 	async #searchByKeyword(keyword) {
 		return this.apiClient
 			.search({
@@ -59,5 +62,15 @@ export default class Youtube {
 			.then((res) =>
 				res.data.items.map((item) => ({ ...item, id: item.id.videoId }))
 			);
+	}
+	async #comments(id) {
+		return this.apiClient
+			.commentThreads({
+				params: {
+					part: 'snippet',
+					videoId: id,
+				},
+			})
+			.then((res) => res.data.items);
 	}
 }

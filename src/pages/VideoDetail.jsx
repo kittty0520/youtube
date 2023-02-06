@@ -1,6 +1,8 @@
 import React from 'react';
 import { useLocation } from 'react-router-dom';
 import ChannelInfo from '../components/ChannelInfo';
+import CommentThreads from '../components/CommentThreads';
+import Comment from '../components/CommentThreads';
 import RelatedVideos from '../components/RelatedVideos';
 
 export default function VideoDetail() {
@@ -24,6 +26,9 @@ export default function VideoDetail() {
 					<h2 className='text-xl font-bold'>{title}</h2>
 					<ChannelInfo id={channelId} name={channelTitle} />
 					<pre className='whitespace-pre-wrap'>{description}</pre>
+				</div>
+				<div className='p-4'>
+					<CommentThreads id={video.id} />
 				</div>
 			</article>
 

@@ -1,0 +1,765 @@
+{
+	"kind": "youtube#commentThreadListResponse",
+	"etag": "1cAFICAvMzcrfTkxnplYP8eAd-w",
+	"nextPageToken": "QURTSl9pMTl1RGFkMHRjS0x0MWhtZkVnalJKUHJGTG9QRkIxN0pDR2pHRVgxTjVEck9lOFlMUC1tMlVDY1VVSjZSNi1BOXFGQTVXZmlNRQ==",
+	"pageInfo": {
+		"totalResults": 20,
+		"resultsPerPage": 20
+	},
+	"items": [
+		{
+			"kind": "youtube#commentThread",
+			"etag": "XmmH2CCWr3W_Cd8_fyuO9AkXwdk",
+			"id": "Ugxh4f-iUs0nqwB8Hdt4AaABAg",
+			"snippet": {
+				"videoId": "_VB39Jo8mAQ",
+				"topLevelComment": {
+					"kind": "youtube#comment",
+					"etag": "KwW5q_SiZBgUiVg2orIejElmmok",
+					"id": "Ugxh4f-iUs0nqwB8Hdt4AaABAg",
+					"snippet": {
+						"videoId": "_VB39Jo8mAQ",
+						"textDisplay": "vipul kumar",
+						"textOriginal": "vipul kumar",
+						"authorDisplayName": "vipul kumar",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/C7A6XkUVfHPKfwAN-W05zk-bW7hPckiXLqltbIUdyELGe_Z-aM2JS9NEK3AhhWVgupn4j4tRfA4=s48-c-k-c0x00ffffff-no-rj",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCz5z6g09xDT226kSAdw2Jgg",
+						"authorChannelId": {
+							"value": "UCz5z6g09xDT226kSAdw2Jgg"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 0,
+						"publishedAt": "2023-02-06T01:56:14Z",
+						"updatedAt": "2023-02-06T01:56:14Z"
+					}
+				},
+				"canReply": true,
+				"totalReplyCount": 0,
+				"isPublic": true
+			}
+		},
+		{
+			"kind": "youtube#commentThread",
+			"etag": "4a623ljp4axGPpbGwsHZcaLZz28",
+			"id": "UgwOuYopcniTbt_5n5N4AaABAg",
+			"snippet": {
+				"videoId": "_VB39Jo8mAQ",
+				"topLevelComment": {
+					"kind": "youtube#comment",
+					"etag": "Ahpsa5N559zIl0k1SmjeqQDK3BA",
+					"id": "UgwOuYopcniTbt_5n5N4AaABAg",
+					"snippet": {
+						"videoId": "_VB39Jo8mAQ",
+						"textDisplay": "When the country is 1.3 trillion in debt how can you expect the ordinary person to be responsible w a piece of plastic and a credit limit",
+						"textOriginal": "When the country is 1.3 trillion in debt how can you expect the ordinary person to be responsible w a piece of plastic and a credit limit",
+						"authorDisplayName": "Spencer K",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AL5GRJUiCA3XrLQUsJn2_qOOWRb7jp43KsVoxggfwvAPXg=s48-c-k-c0x00ffffff-no-rj",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCijVjFw1DO0m27fU1Nl2sdw",
+						"authorChannelId": {
+							"value": "UCijVjFw1DO0m27fU1Nl2sdw"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 0,
+						"publishedAt": "2023-01-31T05:03:58Z",
+						"updatedAt": "2023-01-31T05:03:58Z"
+					}
+				},
+				"canReply": true,
+				"totalReplyCount": 0,
+				"isPublic": true
+			}
+		},
+		{
+			"kind": "youtube#commentThread",
+			"etag": "HAJEfjFjAgkrPAVxgI0GBCOzalo",
+			"id": "UgyiF8tDfHFPM5NppvV4AaABAg",
+			"snippet": {
+				"videoId": "_VB39Jo8mAQ",
+				"topLevelComment": {
+					"kind": "youtube#comment",
+					"etag": "quc2M5P8rmW0mwaVDlPZCwZmj_E",
+					"id": "UgyiF8tDfHFPM5NppvV4AaABAg",
+					"snippet": {
+						"videoId": "_VB39Jo8mAQ",
+						"textDisplay": "Please, we all know the best strategy is to buy as much as you can, you don&#39;t buy and your money ends up paying other players, kinda like mortally wounded but not dead yet",
+						"textOriginal": "Please, we all know the best strategy is to buy as much as you can, you don't buy and your money ends up paying other players, kinda like mortally wounded but not dead yet",
+						"authorDisplayName": "Ting Lee Hoong",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AL5GRJVs__5caRFBwVjZZJ20ILmxjT29NIqKnN78L5233A=s48-c-k-c0x00ffffff-no-rj",
+						"authorChannelUrl": "http://www.youtube.com/channel/UC0DJPA-NPMmAIPOoMkjPrtw",
+						"authorChannelId": {
+							"value": "UC0DJPA-NPMmAIPOoMkjPrtw"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 0,
+						"publishedAt": "2023-01-05T04:09:48Z",
+						"updatedAt": "2023-01-05T04:09:48Z"
+					}
+				},
+				"canReply": true,
+				"totalReplyCount": 0,
+				"isPublic": true
+			}
+		},
+		{
+			"kind": "youtube#commentThread",
+			"etag": "1ClikfDZuhmn7Hc7UTBCZXhCVJ8",
+			"id": "UgzFVYajpZiqQrdKOpx4AaABAg",
+			"snippet": {
+				"videoId": "_VB39Jo8mAQ",
+				"topLevelComment": {
+					"kind": "youtube#comment",
+					"etag": "-MOTMlUg9tfi3LqiIk7McePPEw8",
+					"id": "UgzFVYajpZiqQrdKOpx4AaABAg",
+					"snippet": {
+						"videoId": "_VB39Jo8mAQ",
+						"textDisplay": "I don&#39;t think abstraction is the major problem. I think taking on too much debt without understand it is the problem.  Letting a kid live and go to school on credit for 4 years without making a monthly payment doesn&#39;t teach the pain of monthly payments soon enough. Lend your under-age children money to buy a game or whatever; let them pay you back weekly or monthly using their allowance and/or job; i.e. start small. Then lend them money to buy a car or computer. Don&#39;t let them go from no debt experience to $50,000 in debt for education, room, and board. If that had happened to me I would have been angry, like someone had set me up for indentured servitude, like I had been trapped rather than helped.",
+						"textOriginal": "I don't think abstraction is the major problem. I think taking on too much debt without understand it is the problem.  Letting a kid live and go to school on credit for 4 years without making a monthly payment doesn't teach the pain of monthly payments soon enough. Lend your under-age children money to buy a game or whatever; let them pay you back weekly or monthly using their allowance and/or job; i.e. start small. Then lend them money to buy a car or computer. Don't let them go from no debt experience to $50,000 in debt for education, room, and board. If that had happened to me I would have been angry, like someone had set me up for indentured servitude, like I had been trapped rather than helped.",
+						"authorDisplayName": "Dan Collins",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AL5GRJUeHMtGiZPiHvCDOSoqYa6vjsLheGgmjsy2Rg=s48-c-k-c0x00ffffff-no-rj",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCr0RD-0RQ7ghqqIj2a0TOXA",
+						"authorChannelId": {
+							"value": "UCr0RD-0RQ7ghqqIj2a0TOXA"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 0,
+						"publishedAt": "2023-01-01T17:11:07Z",
+						"updatedAt": "2023-01-01T17:11:07Z"
+					}
+				},
+				"canReply": true,
+				"totalReplyCount": 0,
+				"isPublic": true
+			}
+		},
+		{
+			"kind": "youtube#commentThread",
+			"etag": "vuFljiTXVrGMLsO-QjpgD1FbGcE",
+			"id": "Ugx3Byzoy9nzKWHmvrB4AaABAg",
+			"snippet": {
+				"videoId": "_VB39Jo8mAQ",
+				"topLevelComment": {
+					"kind": "youtube#comment",
+					"etag": "wCaTL62lodGlLxceOhqurU8DKDQ",
+					"id": "Ugx3Byzoy9nzKWHmvrB4AaABAg",
+					"snippet": {
+						"videoId": "_VB39Jo8mAQ",
+						"textDisplay": "Brilliant",
+						"textOriginal": "Brilliant",
+						"authorDisplayName": "Shimster IOM",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AL5GRJXhvSLo5EUaA8BiS74FKKkK57RQbBm2jHDhK-yN8Q=s48-c-k-c0x00ffffff-no-rj",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCtcomCQlL9ZLlfIn6afrBXg",
+						"authorChannelId": {
+							"value": "UCtcomCQlL9ZLlfIn6afrBXg"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 0,
+						"publishedAt": "2022-12-24T19:25:12Z",
+						"updatedAt": "2022-12-24T19:25:12Z"
+					}
+				},
+				"canReply": true,
+				"totalReplyCount": 0,
+				"isPublic": true
+			}
+		},
+		{
+			"kind": "youtube#commentThread",
+			"etag": "z-5pY02HlpV3Bcich13bE0laAw8",
+			"id": "Ugyr92iN2KpdTlzNO3h4AaABAg",
+			"snippet": {
+				"videoId": "_VB39Jo8mAQ",
+				"topLevelComment": {
+					"kind": "youtube#comment",
+					"etag": "-C0pI8gq_dUAEbHvC13X032YT5A",
+					"id": "Ugyr92iN2KpdTlzNO3h4AaABAg",
+					"snippet": {
+						"videoId": "_VB39Jo8mAQ",
+						"textDisplay": "How did they play the next time the money was fake?",
+						"textOriginal": "How did they play the next time the money was fake?",
+						"authorDisplayName": "Al",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AL5GRJUHOpMcaD7VW4813xDGYKW4aHId7heTvI4NHQ=s48-c-k-c0x00ffffff-no-rj",
+						"authorChannelUrl": "http://www.youtube.com/channel/UC2iHadI3gETvtpAwXd-WLxA",
+						"authorChannelId": {
+							"value": "UC2iHadI3gETvtpAwXd-WLxA"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 0,
+						"publishedAt": "2022-12-23T12:33:36Z",
+						"updatedAt": "2022-12-23T12:33:36Z"
+					}
+				},
+				"canReply": true,
+				"totalReplyCount": 0,
+				"isPublic": true
+			}
+		},
+		{
+			"kind": "youtube#commentThread",
+			"etag": "N6x_32KISYeHfIZ79GTOOtN1z18",
+			"id": "UgxDwdRV_01uppS_eyd4AaABAg",
+			"snippet": {
+				"videoId": "_VB39Jo8mAQ",
+				"topLevelComment": {
+					"kind": "youtube#comment",
+					"etag": "q5kAIGQWmm9R3tBe5n-vdtLe_jg",
+					"id": "UgxDwdRV_01uppS_eyd4AaABAg",
+					"snippet": {
+						"videoId": "_VB39Jo8mAQ",
+						"textDisplay": "Not a sob story: me and my two older brothers grew up in a single parent household. If we wanted anything we had to go out and earn it. Paper rounds, Window cleaning. Setting up and stripping out of the towns market stall every Wednesday (Before and after school ) and Saturday . Kitchen Porter in a Hotel. Set us on the right track from the start. When you earn it you  look after it and dont take it for granted!!",
+						"textOriginal": "Not a sob story: me and my two older brothers grew up in a single parent household. If we wanted anything we had to go out and earn it. Paper rounds, Window cleaning. Setting up and stripping out of the towns market stall every Wednesday (Before and after school ) and Saturday . Kitchen Porter in a Hotel. Set us on the right track from the start. When you earn it you  look after it and dont take it for granted!!",
+						"authorDisplayName": "Paul Vella",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AL5GRJW0yGdLWpUzKxlQgII3mPUZ-yZU9vWh6LXRhq9-dQ=s48-c-k-c0x00ffffff-no-rj",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCRqMX7OuAR-GP1MZucT1AKg",
+						"authorChannelId": {
+							"value": "UCRqMX7OuAR-GP1MZucT1AKg"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 8,
+						"publishedAt": "2022-12-11T20:22:28Z",
+						"updatedAt": "2022-12-11T20:22:28Z"
+					}
+				},
+				"canReply": true,
+				"totalReplyCount": 0,
+				"isPublic": true
+			}
+		},
+		{
+			"kind": "youtube#commentThread",
+			"etag": "1vOCQHrxu3wH64QdNQaXyNOti0A",
+			"id": "UgzAxSOc1jbFbYgIwNV4AaABAg",
+			"snippet": {
+				"videoId": "_VB39Jo8mAQ",
+				"topLevelComment": {
+					"kind": "youtube#comment",
+					"etag": "nakahgaVqevubj0boSTkyX-pMnM",
+					"id": "UgzAxSOc1jbFbYgIwNV4AaABAg",
+					"snippet": {
+						"videoId": "_VB39Jo8mAQ",
+						"textDisplay": "Kids should not have too many, let them know how to work it out by themselves",
+						"textOriginal": "Kids should not have too many, let them know how to work it out by themselves",
+						"authorDisplayName": "Cool Girl 007",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/E-82AGgLToubUT01MifBvvjjm_nf273IPwarHJ2fkTTg48SnK4jE379b5o5Nuf8u1tf0sNfI=s48-c-k-c0x00ffffff-no-rj",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCjeAv48JCv_QQCU6bpbSWiA",
+						"authorChannelId": {
+							"value": "UCjeAv48JCv_QQCU6bpbSWiA"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 0,
+						"publishedAt": "2022-12-03T03:05:17Z",
+						"updatedAt": "2022-12-03T03:05:17Z"
+					}
+				},
+				"canReply": true,
+				"totalReplyCount": 0,
+				"isPublic": true
+			}
+		},
+		{
+			"kind": "youtube#commentThread",
+			"etag": "ZFBi28X3fBcADyQJkBvUc0aqYjI",
+			"id": "UgzAc7GEoAmf2baGzJx4AaABAg",
+			"snippet": {
+				"videoId": "_VB39Jo8mAQ",
+				"topLevelComment": {
+					"kind": "youtube#comment",
+					"etag": "I1nwpTKmHs83QUvC1OGaX2JDn6U",
+					"id": "UgzAc7GEoAmf2baGzJx4AaABAg",
+					"snippet": {
+						"videoId": "_VB39Jo8mAQ",
+						"textDisplay": "We only give money value because we believe it has value &amp; abra ca dabra value is given",
+						"textOriginal": "We only give money value because we believe it has value & abra ca dabra value is given",
+						"authorDisplayName": "Walk!ng Sθftwarə",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AL5GRJWa_7VtdO-46SZX5l2ft9XwZbHfhsGM-pPoMD8flQ=s48-c-k-c0x00ffffff-no-rj",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCa9OrRrIgar0znRHM8rfnug",
+						"authorChannelId": {
+							"value": "UCa9OrRrIgar0znRHM8rfnug"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 0,
+						"publishedAt": "2022-11-26T16:02:43Z",
+						"updatedAt": "2022-11-26T16:02:43Z"
+					}
+				},
+				"canReply": true,
+				"totalReplyCount": 0,
+				"isPublic": true
+			}
+		},
+		{
+			"kind": "youtube#commentThread",
+			"etag": "XS7lugLqjUuGypFvD4E1kMAg8ow",
+			"id": "UgxS9ctjkBawaV3PnAB4AaABAg",
+			"snippet": {
+				"videoId": "_VB39Jo8mAQ",
+				"topLevelComment": {
+					"kind": "youtube#comment",
+					"etag": "rgRpB1L17zg8FweJGs_mHQaFi8o",
+					"id": "UgxS9ctjkBawaV3PnAB4AaABAg",
+					"snippet": {
+						"videoId": "_VB39Jo8mAQ",
+						"textDisplay": "The energetic channel invariably reduce because vacation namely receive regarding a lumpy stepson. rural, useful law",
+						"textOriginal": "The energetic channel invariably reduce because vacation namely receive regarding a lumpy stepson. rural, useful law",
+						"authorDisplayName": "Phantom Menace",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AL5GRJVJz-xP1XHzaVeOcA_xEb5mGMJc1oPLI89NhJuSdvdCk-eQEPoc8NuahEGewIM5=s48-c-k-c0x00ffffff-no-rj",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCuB8f7Vn0vw9rHU2SX3ub2g",
+						"authorChannelId": {
+							"value": "UCuB8f7Vn0vw9rHU2SX3ub2g"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 0,
+						"publishedAt": "2022-10-18T19:46:34Z",
+						"updatedAt": "2022-10-18T19:46:34Z"
+					}
+				},
+				"canReply": true,
+				"totalReplyCount": 0,
+				"isPublic": true
+			}
+		},
+		{
+			"kind": "youtube#commentThread",
+			"etag": "zuecKQaX7d-Tg8iy_ZU64xwKa2w",
+			"id": "UgwUWDZOF2WTRPJbv7N4AaABAg",
+			"snippet": {
+				"videoId": "_VB39Jo8mAQ",
+				"topLevelComment": {
+					"kind": "youtube#comment",
+					"etag": "EE-Ap3pvHSTBXPaIygwv8tm11X4",
+					"id": "UgwUWDZOF2WTRPJbv7N4AaABAg",
+					"snippet": {
+						"videoId": "_VB39Jo8mAQ",
+						"textDisplay": "Even with physical money, a dollar is really an abstraction of 100 pennies, a 10 dollar bill is an abstraction of 10 dollars, etc.",
+						"textOriginal": "Even with physical money, a dollar is really an abstraction of 100 pennies, a 10 dollar bill is an abstraction of 10 dollars, etc.",
+						"authorDisplayName": "GravitySmashify",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AL5GRJUxB1yvKgh4kc2n2CIs-Ih0lu04ZCuavFv3y5F9=s48-c-k-c0x00ffffff-no-rj",
+						"authorChannelUrl": "http://www.youtube.com/channel/UC5C0RRRgdpLFSxrt7tCmTSQ",
+						"authorChannelId": {
+							"value": "UC5C0RRRgdpLFSxrt7tCmTSQ"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 0,
+						"publishedAt": "2022-10-13T03:53:56Z",
+						"updatedAt": "2022-10-13T03:53:56Z"
+					}
+				},
+				"canReply": true,
+				"totalReplyCount": 0,
+				"isPublic": true
+			}
+		},
+		{
+			"kind": "youtube#commentThread",
+			"etag": "X2c18W54J0sIofi8cKLkTpaNvNQ",
+			"id": "Ugz9pWP2LPQSTXLW1w14AaABAg",
+			"snippet": {
+				"videoId": "_VB39Jo8mAQ",
+				"topLevelComment": {
+					"kind": "youtube#comment",
+					"etag": "SzI4zd3Z6BSQJ8d78wKjIEE6mMg",
+					"id": "Ugz9pWP2LPQSTXLW1w14AaABAg",
+					"snippet": {
+						"videoId": "_VB39Jo8mAQ",
+						"textDisplay": "I kinda disconnected from the talk for a while to think about how many people have 10k liquid unencumbered 💸 💰 in the bank to take home to play with the children. 🤔",
+						"textOriginal": "I kinda disconnected from the talk for a while to think about how many people have 10k liquid unencumbered 💸 💰 in the bank to take home to play with the children. 🤔",
+						"authorDisplayName": "Pam Jenkins",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AL5GRJW7ikwrDqGQrQw7gYaRMEntO3aRZkQXZdR_3BskXw=s48-c-k-c0x00ffffff-no-rj",
+						"authorChannelUrl": "http://www.youtube.com/channel/UC84ytHna_Jj3Bkgs2I4F4og",
+						"authorChannelId": {
+							"value": "UC84ytHna_Jj3Bkgs2I4F4og"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 0,
+						"publishedAt": "2022-10-09T20:58:26Z",
+						"updatedAt": "2022-10-09T20:58:26Z"
+					}
+				},
+				"canReply": true,
+				"totalReplyCount": 0,
+				"isPublic": true
+			}
+		},
+		{
+			"kind": "youtube#commentThread",
+			"etag": "IUYByFk5IX6BJZ7totChLA4rIvo",
+			"id": "UgzDuLCVvszPW_hHFXh4AaABAg",
+			"snippet": {
+				"videoId": "_VB39Jo8mAQ",
+				"topLevelComment": {
+					"kind": "youtube#comment",
+					"etag": "v_JoAhI4UgwcKSY81J0378Bm11c",
+					"id": "UgzDuLCVvszPW_hHFXh4AaABAg",
+					"snippet": {
+						"videoId": "_VB39Jo8mAQ",
+						"textDisplay": "It is true that credit card transactions are higher, on average, than cash transactions. You know what else is true? Poorer people mostly use cash, and richer people mostly use credit cards. I think there&#39;s another explanation here other than people don&#39;t understand that money is real...<br><br>Likewise, it is true that student debt is a huge issue, and that young people have an alarming rate of bankruptcy. Something tells me that these two things might be related, and its absurd to suggest that student loans are a problem merely because kids don&#39;t understand what money is. They&#39;re told that the best thing they can do for their future is get a good education, and schools are happy to charge obscene tuition to provide it. How can we blame kids for doing what we tell them?<br><br>It&#39;s absurd to suggest that the problem with student loans is the use of credit cards.<br><br>There are real issues with microtransactions in games and apps. The problem is that those apps are designed to get people to pay as much as possible by being designed to be frustrating to use unless you pay. They use psychological tactics to get people to spend that go way beyond using digital currency, and those tactics are particularly effective on kids and those with mental disabilities. Thing is, those tactics don&#39;t even work on most users. The majority of in-app purchases come from a minority of users, the &quot;whales,&quot; who again are more likely to have some form of disability. If it were genuinely a problem of financial literacy or digital currency use, you&#39;d expect in-app purchases to be more evenly distributed. Or, alternatively, if the problem of financial literacy were a wide-spread problem, you&#39;d expect in-app purchases to affect most users rather than a small portion.",
+						"textOriginal": "It is true that credit card transactions are higher, on average, than cash transactions. You know what else is true? Poorer people mostly use cash, and richer people mostly use credit cards. I think there's another explanation here other than people don't understand that money is real...\n\nLikewise, it is true that student debt is a huge issue, and that young people have an alarming rate of bankruptcy. Something tells me that these two things might be related, and its absurd to suggest that student loans are a problem merely because kids don't understand what money is. They're told that the best thing they can do for their future is get a good education, and schools are happy to charge obscene tuition to provide it. How can we blame kids for doing what we tell them?\n\nIt's absurd to suggest that the problem with student loans is the use of credit cards.\n\nThere are real issues with microtransactions in games and apps. The problem is that those apps are designed to get people to pay as much as possible by being designed to be frustrating to use unless you pay. They use psychological tactics to get people to spend that go way beyond using digital currency, and those tactics are particularly effective on kids and those with mental disabilities. Thing is, those tactics don't even work on most users. The majority of in-app purchases come from a minority of users, the \"whales,\" who again are more likely to have some form of disability. If it were genuinely a problem of financial literacy or digital currency use, you'd expect in-app purchases to be more evenly distributed. Or, alternatively, if the problem of financial literacy were a wide-spread problem, you'd expect in-app purchases to affect most users rather than a small portion.",
+						"authorDisplayName": "Hopeless Utopian",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AL5GRJVgx319XekeNPIt6vOMXG0lZ_ztcEId-SajIpdGJFSwJeb_WfRi2mQ63nKq4tny=s48-c-k-c0x00ffffff-no-rj",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCx83ybKYrlJCmu5jAH9YNXw",
+						"authorChannelId": {
+							"value": "UCx83ybKYrlJCmu5jAH9YNXw"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 0,
+						"publishedAt": "2022-09-15T16:17:23Z",
+						"updatedAt": "2022-09-15T16:21:26Z"
+					}
+				},
+				"canReply": true,
+				"totalReplyCount": 0,
+				"isPublic": true
+			}
+		},
+		{
+			"kind": "youtube#commentThread",
+			"etag": "5wQZwTphpBzE1zt5QN5hfgF3lx0",
+			"id": "Ugxp6zsS8l4Go1R6xvt4AaABAg",
+			"snippet": {
+				"videoId": "_VB39Jo8mAQ",
+				"topLevelComment": {
+					"kind": "youtube#comment",
+					"etag": "du1dPi_4fzoS-lHcQ6dY9JvoxKE",
+					"id": "Ugxp6zsS8l4Go1R6xvt4AaABAg",
+					"snippet": {
+						"videoId": "_VB39Jo8mAQ",
+						"textDisplay": "Sounds like this isn&#39;t an experiment about teaching financial literacy, but about adding artificial consequences. If it were about teaching financial literacy, I&#39;d expect the first monopoly game with real money would proceed exactly as the fake money games, since the kids haven&#39;t learned the skills yet. That&#39;s not what happened, though. They already know how to interact with consequences, they just knew that the fake-money games didn&#39;t have them so they focused on fun and altruism instead. The moment consequences came in, they changed their strategies.<br><br>So which world would you rather live in? One where the stakes are non-existent and it&#39;s more important to freely help your fellow man when their struggling so you can keep on enjoying life with them? Or one where a &quot;reward&quot; as low as $20 imposed by someone in power is enough to make everyone frugal and ruthless? What world do you want to teach kids is the ideal one to strive for?",
+						"textOriginal": "Sounds like this isn't an experiment about teaching financial literacy, but about adding artificial consequences. If it were about teaching financial literacy, I'd expect the first monopoly game with real money would proceed exactly as the fake money games, since the kids haven't learned the skills yet. That's not what happened, though. They already know how to interact with consequences, they just knew that the fake-money games didn't have them so they focused on fun and altruism instead. The moment consequences came in, they changed their strategies.\n\nSo which world would you rather live in? One where the stakes are non-existent and it's more important to freely help your fellow man when their struggling so you can keep on enjoying life with them? Or one where a \"reward\" as low as $20 imposed by someone in power is enough to make everyone frugal and ruthless? What world do you want to teach kids is the ideal one to strive for?",
+						"authorDisplayName": "Hopeless Utopian",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AL5GRJVgx319XekeNPIt6vOMXG0lZ_ztcEId-SajIpdGJFSwJeb_WfRi2mQ63nKq4tny=s48-c-k-c0x00ffffff-no-rj",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCx83ybKYrlJCmu5jAH9YNXw",
+						"authorChannelId": {
+							"value": "UCx83ybKYrlJCmu5jAH9YNXw"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 0,
+						"publishedAt": "2022-09-09T15:26:32Z",
+						"updatedAt": "2022-09-09T15:26:32Z"
+					}
+				},
+				"canReply": true,
+				"totalReplyCount": 0,
+				"isPublic": true
+			}
+		},
+		{
+			"kind": "youtube#commentThread",
+			"etag": "QdAiMomKfNguORn4LLJmyxBIvE4",
+			"id": "UgzARweYMbmc09AvIrZ4AaABAg",
+			"snippet": {
+				"videoId": "_VB39Jo8mAQ",
+				"topLevelComment": {
+					"kind": "youtube#comment",
+					"etag": "wgm4XVassmN_CBljAly4qPjRT8U",
+					"id": "UgzARweYMbmc09AvIrZ4AaABAg",
+					"snippet": {
+						"videoId": "_VB39Jo8mAQ",
+						"textDisplay": "So close but still so far, money isn’t real.",
+						"textOriginal": "So close but still so far, money isn’t real.",
+						"authorDisplayName": "Mike Moffitt",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/1_sRE5-dyxNiL8qMu4fXpN6dDUaE4gyK_9QmpnLagwTMFSTwA-j8iUBURmX5b05k7Bfp8a8Pcw=s48-c-k-c0x00ffffff-no-rj",
+						"authorChannelUrl": "http://www.youtube.com/channel/UC1e5OkBvug6z88Fk1dVQbrw",
+						"authorChannelId": {
+							"value": "UC1e5OkBvug6z88Fk1dVQbrw"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 0,
+						"publishedAt": "2022-09-06T16:27:09Z",
+						"updatedAt": "2022-09-06T16:27:09Z"
+					}
+				},
+				"canReply": true,
+				"totalReplyCount": 0,
+				"isPublic": true
+			}
+		},
+		{
+			"kind": "youtube#commentThread",
+			"etag": "lkhSqfHSkBhepNe9qqYs01v3Q0o",
+			"id": "UgzHm-D3xgP-a1Qebat4AaABAg",
+			"snippet": {
+				"videoId": "_VB39Jo8mAQ",
+				"topLevelComment": {
+					"kind": "youtube#comment",
+					"etag": "WacS66Ea-pt5Xc6Qhm3lokB5RWY",
+					"id": "UgzHm-D3xgP-a1Qebat4AaABAg",
+					"snippet": {
+						"videoId": "_VB39Jo8mAQ",
+						"textDisplay": "I worked at a bank from 24-31 years old.  I went from Banker to Market Manager and it wasn&#39;t until after I left that I realized my success was due to what my mom had taught me growing up.  I entered banking understanding credit, interest rates, savings, and overdrafts. I spent most of my career teaching adults 20-30 years older than me, what all that meant and how it impacted them.  I would quit my current job right now to go teach Money 101 in High School or Middle School.  Its one of the biggest misses in education.",
+						"textOriginal": "I worked at a bank from 24-31 years old.  I went from Banker to Market Manager and it wasn't until after I left that I realized my success was due to what my mom had taught me growing up.  I entered banking understanding credit, interest rates, savings, and overdrafts. I spent most of my career teaching adults 20-30 years older than me, what all that meant and how it impacted them.  I would quit my current job right now to go teach Money 101 in High School or Middle School.  Its one of the biggest misses in education.",
+						"authorDisplayName": "BR",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AL5GRJVmz_eUEGCUhI7lNGzBn9sVKDOiQARZ9NAucxBWMctR2UNUgnoygliCOPDAwE5InA=s48-c-k-c0x00ffffff-no-rj",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCPsEw7wLTFYuloVbrss4Uwg",
+						"authorChannelId": {
+							"value": "UCPsEw7wLTFYuloVbrss4Uwg"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 7,
+						"publishedAt": "2022-08-22T18:30:35Z",
+						"updatedAt": "2022-08-22T18:30:55Z"
+					}
+				},
+				"canReply": true,
+				"totalReplyCount": 0,
+				"isPublic": true
+			}
+		},
+		{
+			"kind": "youtube#commentThread",
+			"etag": "yz23wJiVCgFou7jsQrU7bC2ma60",
+			"id": "UgxbsUZdQuRPUwu6pcJ4AaABAg",
+			"snippet": {
+				"videoId": "_VB39Jo8mAQ",
+				"topLevelComment": {
+					"kind": "youtube#comment",
+					"etag": "iEAmD34wgUeO9cX45Ae5L_Yn4PE",
+					"id": "UgxbsUZdQuRPUwu6pcJ4AaABAg",
+					"snippet": {
+						"videoId": "_VB39Jo8mAQ",
+						"textDisplay": "money has never existed",
+						"textOriginal": "money has never existed",
+						"authorDisplayName": "Roger Barnstead",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AL5GRJVVCCWZLWf4SNjWbEooPBsUZwVdlFMNqypo3bgFYQ=s48-c-k-c0x00ffffff-no-rj",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCqEmaBF7t5Nol4psm-WfyLQ",
+						"authorChannelId": {
+							"value": "UCqEmaBF7t5Nol4psm-WfyLQ"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 0,
+						"publishedAt": "2022-08-13T23:05:22Z",
+						"updatedAt": "2022-08-13T23:05:22Z"
+					}
+				},
+				"canReply": true,
+				"totalReplyCount": 0,
+				"isPublic": true
+			}
+		},
+		{
+			"kind": "youtube#commentThread",
+			"etag": "wOki3S5fgirWGblvA6S7_QFKvxk",
+			"id": "Ugwg9oNSe0fOWXggsCx4AaABAg",
+			"snippet": {
+				"videoId": "_VB39Jo8mAQ",
+				"topLevelComment": {
+					"kind": "youtube#comment",
+					"etag": "TUzNcYjhqC3U44wwA2_sGdLkIs8",
+					"id": "Ugwg9oNSe0fOWXggsCx4AaABAg",
+					"snippet": {
+						"videoId": "_VB39Jo8mAQ",
+						"textDisplay": "But money isn’t real. It’s fiat",
+						"textOriginal": "But money isn’t real. It’s fiat",
+						"authorDisplayName": "TATN This Ain't That Network",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AL5GRJXuNdk13QU2Ft96x_OT_t5SWxKw69Z8wIKfl4Q80w=s48-c-k-c0x00ffffff-no-rj",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCp-z-Ht4RD3JxBcFrDYlIyQ",
+						"authorChannelId": {
+							"value": "UCp-z-Ht4RD3JxBcFrDYlIyQ"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 0,
+						"publishedAt": "2022-08-08T00:23:44Z",
+						"updatedAt": "2022-08-08T00:23:44Z"
+					}
+				},
+				"canReply": true,
+				"totalReplyCount": 0,
+				"isPublic": true
+			}
+		},
+		{
+			"kind": "youtube#commentThread",
+			"etag": "6YqBKaLwqEsPLS4ws0qlOJqRYV0",
+			"id": "UgwIWq3w-KTAnzokxDB4AaABAg",
+			"snippet": {
+				"videoId": "_VB39Jo8mAQ",
+				"topLevelComment": {
+					"kind": "youtube#comment",
+					"etag": "O6RQD2usul93TbzuTCVMPiDzB4Q",
+					"id": "UgwIWq3w-KTAnzokxDB4AaABAg",
+					"snippet": {
+						"videoId": "_VB39Jo8mAQ",
+						"textDisplay": "Whatever type of investment you decide to get into, I think the key message here or for me rather is to start investing no matter how small. When you invest, you&#39;re buying a day that you don&#39;t have to work.. I pray everyone reading this become successful",
+						"textOriginal": "Whatever type of investment you decide to get into, I think the key message here or for me rather is to start investing no matter how small. When you invest, you're buying a day that you don't have to work.. I pray everyone reading this become successful",
+						"authorDisplayName": "James Bradley",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/g2P-ADeE3IdH6Ki5UzRcmAu2xvdXtPiTcxRXANQBSKOVibRnN8ON8Hvaf8YyELfRBcH8isWnow=s48-c-k-c0x00ffffff-no-rj",
+						"authorChannelUrl": "http://www.youtube.com/channel/UC6GC6RLmlx4NKAjfmAfYjKw",
+						"authorChannelId": {
+							"value": "UC6GC6RLmlx4NKAjfmAfYjKw"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 77,
+						"publishedAt": "2022-08-04T00:37:30Z",
+						"updatedAt": "2022-08-04T00:37:30Z"
+					}
+				},
+				"canReply": true,
+				"totalReplyCount": 46,
+				"isPublic": true
+			},
+			"replies": {
+				"comments": [
+					{
+						"kind": "youtube#comment",
+						"etag": "n-a7nV9kEW3nQjoPgyHQwQblH4Q",
+						"id": "UgwIWq3w-KTAnzokxDB4AaABAg.9eHqFu8RpO99eIAIalOIIE",
+						"snippet": {
+							"videoId": "_VB39Jo8mAQ",
+							"textDisplay": "She is a popular trader, Stacy Griffin is the person that gave me access to know more about trading",
+							"textOriginal": "She is a popular trader, Stacy Griffin is the person that gave me access to know more about trading",
+							"parentId": "UgwIWq3w-KTAnzokxDB4AaABAg",
+							"authorDisplayName": "Hauwa Ahmad",
+							"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AL5GRJVLZ4YzTnMJR0n5O3YgWMJFe1nqy4gqJLV0mvbM=s48-c-k-c0x00ffffff-no-rj",
+							"authorChannelUrl": "http://www.youtube.com/channel/UCQN7LUa_j-EVnMUuT8dKVQg",
+							"authorChannelId": {
+								"value": "UCQN7LUa_j-EVnMUuT8dKVQg"
+							},
+							"canRate": true,
+							"viewerRating": "none",
+							"likeCount": 0,
+							"publishedAt": "2022-08-04T03:41:22Z",
+							"updatedAt": "2022-08-04T03:41:22Z"
+						}
+					},
+					{
+						"kind": "youtube#comment",
+						"etag": "4ohvIEtMM5rweNtEEFpZecT4oIo",
+						"id": "UgwIWq3w-KTAnzokxDB4AaABAg.9eHqFu8RpO99eI9qPa3o1r",
+						"snippet": {
+							"videoId": "_VB39Jo8mAQ",
+							"textDisplay": "I really don&#39;t know about this lady but words have really explained how life seems easy and stable with her gift and wisdom of trading",
+							"textOriginal": "I really don't know about this lady but words have really explained how life seems easy and stable with her gift and wisdom of trading",
+							"parentId": "UgwIWq3w-KTAnzokxDB4AaABAg",
+							"authorDisplayName": "Lucia Gratton",
+							"authorProfileImageUrl": "https://yt3.ggpht.com/NQGY0rpEAg3fI5---GO4lqRrdECnHwZZVEXBDeXleUlVplY21JPs9NzszysCu7m3iWOg98Fo6g=s48-c-k-c0x00ffffff-no-rj",
+							"authorChannelUrl": "http://www.youtube.com/channel/UC9RoHmjzZDvDpBkYH9i5j_Q",
+							"authorChannelId": {
+								"value": "UC9RoHmjzZDvDpBkYH9i5j_Q"
+							},
+							"canRate": true,
+							"viewerRating": "none",
+							"likeCount": 0,
+							"publishedAt": "2022-08-04T03:37:22Z",
+							"updatedAt": "2022-08-04T03:37:22Z"
+						}
+					},
+					{
+						"kind": "youtube#comment",
+						"etag": "ToqzAuTCJbsWLvOrwKXbOTQvXGg",
+						"id": "UgwIWq3w-KTAnzokxDB4AaABAg.9eHqFu8RpO99eI919vcFPj",
+						"snippet": {
+							"videoId": "_VB39Jo8mAQ",
+							"textDisplay": "Thanks for the opportunity I will diffinatly write her to get started.",
+							"textOriginal": "Thanks for the opportunity I will diffinatly write her to get started.",
+							"parentId": "UgwIWq3w-KTAnzokxDB4AaABAg",
+							"authorDisplayName": "MUHAMMED NASIR",
+							"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AL5GRJU2CsrHMeeS6aAjALU_7nKN1VB-c2qO-9hSFoIOeZ5_d-nyMM2-l9egzLjvE1m1=s48-c-k-c0x00ffffff-no-rj",
+							"authorChannelUrl": "http://www.youtube.com/channel/UCrTlVoILimBC6xNgjGM5Vzw",
+							"authorChannelId": {
+								"value": "UCrTlVoILimBC6xNgjGM5Vzw"
+							},
+							"canRate": true,
+							"viewerRating": "none",
+							"likeCount": 0,
+							"publishedAt": "2022-08-04T03:30:14Z",
+							"updatedAt": "2022-08-04T03:30:14Z"
+						}
+					},
+					{
+						"kind": "youtube#comment",
+						"etag": "qHkHlMrl8sLeW02SASZFHN_IdfQ",
+						"id": "UgwIWq3w-KTAnzokxDB4AaABAg.9eHqFu8RpO99eI8MAJEaF_",
+						"snippet": {
+							"videoId": "_VB39Jo8mAQ",
+							"textDisplay": "She is Stacy Griffin, one of the reputable few professionals around",
+							"textOriginal": "She is Stacy Griffin, one of the reputable few professionals around",
+							"parentId": "UgwIWq3w-KTAnzokxDB4AaABAg",
+							"authorDisplayName": "Mustiy Fresh",
+							"authorProfileImageUrl": "https://yt3.ggpht.com/XsaCnm-hzZ2sITJiIB8Y1vCDQj9ZWjdXygbM1Nze-awuE42xXy9jOMCjeEX2SXvJbXK5FmPG=s48-c-k-c0x00ffffff-no-rj",
+							"authorChannelUrl": "http://www.youtube.com/channel/UC0uLlzr64nMGIIEZtBu9aeA",
+							"authorChannelId": {
+								"value": "UC0uLlzr64nMGIIEZtBu9aeA"
+							},
+							"canRate": true,
+							"viewerRating": "none",
+							"likeCount": 0,
+							"publishedAt": "2022-08-04T03:24:22Z",
+							"updatedAt": "2022-08-04T03:24:22Z"
+						}
+					},
+					{
+						"kind": "youtube#comment",
+						"etag": "k_j_V0lAM2WDKk0_WGgPqa5SAtc",
+						"id": "UgwIWq3w-KTAnzokxDB4AaABAg.9eHqFu8RpO99eI8Lo_Vwj4",
+						"snippet": {
+							"videoId": "_VB39Jo8mAQ",
+							"textDisplay": "5,9842",
+							"textOriginal": "5,9842",
+							"parentId": "UgwIWq3w-KTAnzokxDB4AaABAg",
+							"authorDisplayName": "Mustiy Fresh",
+							"authorProfileImageUrl": "https://yt3.ggpht.com/XsaCnm-hzZ2sITJiIB8Y1vCDQj9ZWjdXygbM1Nze-awuE42xXy9jOMCjeEX2SXvJbXK5FmPG=s48-c-k-c0x00ffffff-no-rj",
+							"authorChannelUrl": "http://www.youtube.com/channel/UC0uLlzr64nMGIIEZtBu9aeA",
+							"authorChannelId": {
+								"value": "UC0uLlzr64nMGIIEZtBu9aeA"
+							},
+							"canRate": true,
+							"viewerRating": "none",
+							"likeCount": 0,
+							"publishedAt": "2022-08-04T03:24:19Z",
+							"updatedAt": "2022-08-04T03:24:19Z"
+						}
+					}
+				]
+			}
+		},
+		{
+			"kind": "youtube#commentThread",
+			"etag": "QxVhKujDqIxDGGt6h9s_xci92ak",
+			"id": "Ugw8rijGbI2ttiF_rpd4AaABAg",
+			"snippet": {
+				"videoId": "_VB39Jo8mAQ",
+				"topLevelComment": {
+					"kind": "youtube#comment",
+					"etag": "okwftc_0sSwc4DY27bIhcB5ocAI",
+					"id": "Ugw8rijGbI2ttiF_rpd4AaABAg",
+					"snippet": {
+						"videoId": "_VB39Jo8mAQ",
+						"textDisplay": "Sounds nice to get practice with high stakes money experiences. <br>If you want to give your kid instant economic priveledge...",
+						"textOriginal": "Sounds nice to get practice with high stakes money experiences. \nIf you want to give your kid instant economic priveledge...",
+						"authorDisplayName": "Trent Bellwood",
+						"authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AL5GRJXciX3BgBB-PrsJVq1acafFmKdAwiQ8hXaH6EdOzH4=s48-c-k-c0x00ffffff-no-rj",
+						"authorChannelUrl": "http://www.youtube.com/channel/UCfvgXcCfM57nRE5ogYI-F6w",
+						"authorChannelId": {
+							"value": "UCfvgXcCfM57nRE5ogYI-F6w"
+						},
+						"canRate": true,
+						"viewerRating": "none",
+						"likeCount": 0,
+						"publishedAt": "2022-08-02T13:31:57Z",
+						"updatedAt": "2022-08-02T13:31:57Z"
+					}
+				},
+				"canReply": true,
+				"totalReplyCount": 0,
+				"isPublic": true
+			}
+		}
+	]
+}
