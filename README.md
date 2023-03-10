@@ -17,7 +17,7 @@
 
 - 시연 영상
 
-      ![youtube_working](https://user-images.githubusercontent.com/105909450/224295728-d58a7c2f-d2d0-4bcc-9fd0-4a51a241c1ec.gif)
+     ![youtube_working](https://user-images.githubusercontent.com/105909450/224295728-d58a7c2f-d2d0-4bcc-9fd0-4a51a241c1ec.gif)
 
   <br/>
 
