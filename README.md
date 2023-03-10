@@ -1,70 +1,50 @@
-# Getting Started with Create React App
+# Youtube Clone Coding
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## 목적
 
-## Available Scripts
+> API를 이용하여 사이트를 구현해보는 연습을 하기 위해 Youtube 클론코딩을 하였습니다.
 
-In the project directory, you can run:
+## 기능
 
-### `npm start`
+1. 가장 인기 있는 동영상 목록을 가져온다.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+2. 사용자가 콘텐츠를 검색하면 그에 맞는 재생목록들을 보여준다.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+3. 채널의 상세내용, 연관된 비디오들, **코멘트**(내가 추가로 시도해 본 항목)리스트를 보여준다.
 
-### `npm test`
+## 배운 점
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- API Reference를 읽는 방법
 
-### `npm run build`
+- HTTP 요청 / 응답
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+  - HTTP 요청
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+    1. MOCK dadta
+    2. fetch
+    3. Axios
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+  - HTTP 응답으로 받아온 JSON파일을 분석해서 어떤 데이터를 읽어야 하는 지를 연습 (postman에서 json 내용을 확인)
 
-### `npm run eject`
+    ```json
+    //예시) video 리소스를 요청했을 때 전송받은 json
+    {
+    "kind": "youtube#videoListResponse",
+    "etag": etag,
+    "nextPageToken": string,
+    "prevPageToken": string,
+    "pageInfo": {
+    "totalResults": integer,
+    "resultsPerPage": integer
+    },
+    "items": [
+    video Resource
+    ]
+    }
+    ```
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## 어려웠던 부분
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- useContext()를 사용해서 useYoutubeApi()함수를 만드는 부분
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+-
