@@ -2,9 +2,9 @@
 
 ## ✍목적
 
-> API를 이용하여 사이트를 구현해보는 연습을 하기 위해 Youtube 클론코딩을 하였습니다.
+> API를 이용하여 사이트를 구현해보는 연습을 하기 위해 Youtube 클론코딩(by드림코딩)을 하였습니다.
 
-<br>
+<br/>
 
 ## 🚀기능
 
@@ -26,13 +26,78 @@
 
 <br/>
 
-- HTTP 요청 / 응답
+- HTTP요청시 URL에서 쿼리 매개변수 값을 설정하는 부분
 
-  - HTTP 요청
+  - 키워드 검색 시 API 요청에 지정된 쿼리 매개변수와 일치하는 검색결과의 모음을 반환할 때
 
-    1. MOCK data
-    2. 실제 Youtube API에 요청
-    3. fetch /Axios (해당 프로젝트에 적용된 방법)
+    - URL:
+
+      > https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=25&q=surfing&key=[YOUR_API_KEY]
+
+    - HTTP 요청 :
+
+      > GET https://www.googleapis.com/youtube/v3/search
+
+    - (필수 매개변수) part
+
+      > part 매개변수는 API 응답이 포함하는 search 리소스 속성 하나 이상의 쉼표로 구분된 목록을 지정합니다.
+      > search 결과에서 snippet 속성은 결과의 제목, 설명 등을 식별하는 다른 속성을 포함합니다.
+
+    - (선택적 매개변수) maxResults
+
+      > maxResults 매개변수는 결과 집합에 반환해야 하는 최대 항목 수를 지정합니다.
+
+    - (선택적 매개변수) q
+
+      > q 매개변수는 검색할 쿼리 용어를 지정합니다.
+
+      출처 : [Youtube > Data API > 참조](https://developers.google.com/youtube/v3/docs/search/list?hl=ko#javascript)
+
+    <br/>
+
+    - Javascript 코드
+
+      ```javascript
+      //Axios Instance를 만들어서 공통적으로 사용되는 config를 지정함
+      export default class YoutubeClient {
+      	constructor() {
+      		this.httpClient = axios.create({
+      			baseURL: 'https://youtube.googleapis.com/youtube/v3',
+      			params: { key: process.env.REACT_APP_YOUTUBE_API_KEY },
+      		});
+      	}
+      	async search(params) {
+      		return this.httpClient.get('search', params);
+      	}
+      }
+      ```
+
+      ```javascript
+      //지정된 config는 위에서 설정한 인스턴스 config와 결합됨.
+      export default class Youtube {
+      	constructor(apiClient) {
+      		this.apiClient = apiClient;
+      	}
+      	async search(keyword) {
+      		return keyword ? this.#searchByKeyword(keyword) : this.#mostPopular();
+      	}
+      	async #searchByKeyword(keyword) {
+      		return this.apiClient
+      			.search({
+      				params: {
+      					part: 'snippet',
+      					maxResults: 25,
+      					type: 'video',
+      					q: keyword,
+      				},
+      			})
+      			.then((res) => res.data.items)
+      			.then((items) =>
+      				items.map((item) => ({ ...item, id: item.id.videoId }))
+      			);
+      	}
+      }
+      ```
 
     <br/>
 
@@ -66,7 +131,9 @@
 
 - comments.map() 부분에서 TypeError: Cannot read property 'map' of undefined 발생
 
-- 원인 : 첫 렌더링이 실행될 때 commnets 데이터 값이 없기 때문에 undefined이 반환
+  - 원인 : 첫 렌더링이 실행될 때 commnets 데이터 값이 없기 때문에 undefined이 반환
 
-- 해결방법:  
-  'comments &&' 을 추가하여 데이터를 받아왔을 때만 실행되도록 한다.
+  - 해결방법:  
+    'comments &&' 을 추가하여 데이터를 받아왔을 때만 실행되도록 한다.
+
+<br/>
